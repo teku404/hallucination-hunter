@@ -175,12 +175,9 @@ body {
 
 .main-wrapper {
   margin-left: 60px;
-  margin-right: auto;
   flex: 1;
   min-height: 100vh;
   padding: 0 40px 80px;
-  max-width: 960px;
-  width: 100%;
 }
 
 .view {
